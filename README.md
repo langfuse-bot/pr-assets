@@ -20,6 +20,14 @@ Because this repo is **public**, those URLs are served anonymously as
 emits a plain `<img>` tag that loads for **any logged-out visitor** — no camo
 proxy, no auth, no redirect.
 
+## Proof it renders
+
+The image below is embedded from this repo via a commit-pinned
+`raw.githubusercontent.com` URL. If you can see it while logged out, the
+mechanism is working:
+
+![pr-assets demo](https://raw.githubusercontent.com/langfuse-bot/pr-assets/2db1289fd4df1475f6fb577140d7036316b57279/assets/demo.png)
+
 ## Layout
 
 ```
